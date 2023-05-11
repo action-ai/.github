@@ -1,4 +1,4 @@
-![logo](../aitomateMain.png)
+![logo](aitomateMain.png)
 
 # Description
 Automation of business-specific processes involves using technology to streamline and optimize tasks within a company's workflows. This can include a wide range of activities, from automating routine administrative tasks to optimizing complex production processes.
