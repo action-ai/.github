@@ -1,4 +1,4 @@
-![logo](./logo.png)
+![logo](./aitomateMain.png)
 
 # Description
 Automation of business-specific processes involves using technology to streamline and optimize tasks within a company's workflows. This can include a wide range of activities, from automating routine administrative tasks to optimizing complex production processes.
@@ -11,10 +11,6 @@ In manufacturing, automation can be used to optimize production processes, inclu
 
 Overall, automation of business-specific processes can bring many benefits, including cost savings, improved accuracy, increased efficiency, and more time for staff to focus on higher-value work.
 
-**action.ai** is here to automate any process within your business with help of artificial inteligence and state of art configuration system!
+**aitomate.ai** is here to automate any process within your business with help of artificial inteligence and state of art configuration system!
 
-Copyright © action.ai. All rights reserved.
-
-
-
-
+Copyright © aitomate.ai. All rights reserved.
